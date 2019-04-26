@@ -5,21 +5,6 @@ Layout: default
 <html>
   <head>
     <title> TRE'S ART! </title>
-    <style>
-      table, th, td 
-      {
-        border: 2px solid black;
-        border-collapse: collapse;
-      }
-      th, td 
-      {
-        pading: 5px;
-      }
-      th 
-      {
-        text-align:left;
-      }
-    </style>
   </head>
   <body>
   <h1> ROCKSTAR </h1>
