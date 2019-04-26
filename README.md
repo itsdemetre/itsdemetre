@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+---
+Layout: default
+---
+<!-- TRE -->
+<html>
+  <head>
+    <title> TRE'S ART! </title>
+    <style>
+      table, th, td 
+      {
+        border: 2px solid black;
+        border-collapse: collapse;
+      }
+      th, td 
+      {
+        pading: 5px;
+      }
+      th 
+      {
+        text-align:left;
+      }
+    </style>
+  </head>
+  <body>
+  <h1> ROCKSTAR </h1>
+  <hr>
+  <h4> a DARK edit in PINK color scheme featuring DEMETRE & HIS SOUL! </h4>
+  <img src="https://scontent-sea1-1.cdninstagram.com/vp/8a643cbe9ab8196868a62c1c12ea6c68/5D523F7E/t51.2885-15/e35/46121635_989019031303791_432047334790009214_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&se=7&ig_cache_key=MTkyMjg4MzU1MDc2OTg1MDQzMw%3D%3D.2" alt="ON THE TOP OF THE WORLD...">
 
-You can use the [editor on GitHub](https://github.com/itsdemetre/itsdemetre/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+  <h1> GANGGG! </h1>
+  <hr>
+  <h4> a FASHION edit in PURPLE color scheme featuring DEMETRE & RAHULIGAN! </h4>
+  <img src="https://scontent-sea1-1.cdninstagram.com/vp/d3da9ebc5e71d3e6ab6c26b585f52b91/5D3B63CF/t51.2885-15/e35/36955372_1570899733015524_441763023053389824_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&se=7&ig_cache_key=MTgyODcxOTA5MjAwNjE5ODQ0MA%3D%3D.2" alt="SPLASH!">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  <h1> GOTH GF ;) </h1>
+  <hr>
+  <h4> a ROMANTIC edit in PURPLE & TEAL color scheme featuring DEMETRE & LYZA! </h4>
+  <img src="https://scontent-sea1-1.cdninstagram.com/vp/e80b5f64ef2d8cb811c2e147a803a307/5D5B6B36/t51.2885-15/sh0.08/e35/p750x750/46841018_350695885510005_517653920966872423_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&ig_cache_key=MTkyOTUwMzIyMDk5MDE4OTE3NQ%3D%3D.2" alt="ON THE TOP OF THE WORLD...">
+  </body>
+</html>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/itsdemetre/itsdemetre/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
