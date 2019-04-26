@@ -3,9 +3,7 @@ Layout: default
 ---
 <!-- TRE -->
 <html>
-  <head>
     <title> TRE'S ART! </title>
-  </head>
   <body>
   <h1> ROCKSTAR </h1>
   <hr>
