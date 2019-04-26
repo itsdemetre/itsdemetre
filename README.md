@@ -1,9 +1,6 @@
----
-Layout: default
----
+
 <!-- TRE -->
 <html>
-    <title> TRE'S ART! </title>
   <body>
   <h1> ROCKSTAR </h1>
   <hr>
